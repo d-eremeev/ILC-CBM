@@ -1,6 +1,6 @@
 # Internal Linear Combination For Cosmic Microwave Background.
 
-# TL;DR
+## TL;DR
 
 This repository contains 
 
@@ -8,7 +8,7 @@ This repository contains
   2) small example using CMB data from Plank experiment (see 4, 5)
   3) visualization using HEALPix (Hierarchical Equal Area isoLatitude Pixelation of a sphere) python package (see 6)
 
-# More information:
+## More information:
 
 The separation of the main signal from noise is one of the most general problems in analysis of cosmic microwave background (CMB) in WMAP and Plank experiment.
 
