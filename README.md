@@ -1,13 +1,20 @@
 # Internal Linear Combination For Cosmic Microwave Background.
 
+TL;DR
+
 This repository contains 
+
   1) implementation of ILC (Internal Linear Combination) method (see 1, 2, 3).
-  2) small example using CMB data from Plank experiment (4,5)
-  3) visualization using 
+  2) small example using CMB data from Plank experiment (see 4, 5)
+  3) visualization using HEALPix (Hierarchical Equal Area isoLatitude Pixelation of a sphere) python package (see 6)
 
-using data from Planck expirement (see 3) in python, using healpy library for visualization.
+More information:
 
-First of all a few words about ILC (one can find much more information in article linked below).
+The separation of the main signal from noise is one of the most general problems in analysis of cosmic microwave background (CMB) in WMAP and Plank experiment.
+
+Alongside with classical methods such as Wavelet analysis, ICA (Independent Component Analysis) and many others ILC (Internal Linear Combination) method was presented by numerous of authors (see links).
+
+A few words about ILC.
 
 Supose for channel i at pth pixel we have 
 
@@ -49,13 +56,9 @@ where
 
 ![](https://latex.codecogs.com/gif.latex?C_%7Bij%7D%20%3D%20%5Cleft%20%5Clangle%20%5CDelta%20T_i%20%5CDelta%20T_j%20%5Cright%20%5Crangle%20%3D%20%5Cfrac%7B1%7D%7BN_%7Bpix%7D%7D%20%5Csum_%7Bp%3D1%7D%5E%7BN_%7Bpix%7D%7D%20%28T_i%28p%29%20-%20%5Coverline%7BT_i%7D%29%28T_j%28p%29%20-%20%5Coverline%7BT_j%7D%29)
 
-About code: 
-
-One can find file ILC_CMB.ipynb that contains
-
-1) Implementation of ILC algorithm
-2) Visualisation of CMB maps in healpy
-3) Application of ILC to CMB maps
+Comparison of the official map with the map received by our code:
+  1) Official CMB map by Plank experiment
+  2) Current code output map
 
 ![Annotation 2020-01-27 150948](https://user-images.githubusercontent.com/46852371/73173740-1fb17c00-4117-11ea-83a2-52c6fae0467c.jpg)
 
