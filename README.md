@@ -60,14 +60,14 @@ where
 
 ![](https://latex.codecogs.com/gif.latex?C_%7Bij%7D%20%3D%20%5Cleft%20%5Clangle%20%5CDelta%20T_i%20%5CDelta%20T_j%20%5Cright%20%5Crangle%20%3D%20%5Cfrac%7B1%7D%7BN_%7Bpix%7D%7D%20%5Csum_%7Bp%3D1%7D%5E%7BN_%7Bpix%7D%7D%20%28T_i%28p%29%20-%20%5Coverline%7BT_i%7D%29%28T_j%28p%29%20-%20%5Coverline%7BT_j%7D%29)
 
-Comparison of the official map with the map received by our code:
+## Comparison of the official map with the map received by our code:
   1) Official CMB map by Plank experiment
   2) Current code output map
 
 ![Annotation 2020-01-27 150948](https://user-images.githubusercontent.com/46852371/73173740-1fb17c00-4117-11ea-83a2-52c6fae0467c.jpg)
 
 
-Links and articles: 
+## Links and articles: 
 
   1)  https://arxiv.org/pdf/0806.0520.pdf A Statistical Analysis of the "Internal Linear Combination" Method in Problems of Signal Separation as in CMB Observations R. Vio and P. Andreani 2008
   
