@@ -87,4 +87,4 @@ AN INTERNAL LINEAR COMBINATION METHOD: LIMITATIONS AND IMPLICATIONS H. K. Erikse
       
   7)  https://arxiv.org/pdf/0802.0400.pdf A Modified ICA Approach for Signal Separation in CMB Maps R. Vio and P. Andreani 2008
   
-  8)  V.J. Martinez et al, Data Analysis in Cosmology, Springer 2009
+  8)  https://www.springer.com/gp/book/9783540239727 V.J. Martinez et al, Data Analysis in Cosmology, Springer 2009
