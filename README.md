@@ -1,6 +1,11 @@
 # Internal Linear Combination For Cosmic Microwave Background.
 
-This repository contains implementation of ILC (Internal Linear Combination) method (see 1,2) using data from Planck expirement (see 3) in python, using healpy library for visualization.
+This repository contains 
+  1) implementation of ILC (Internal Linear Combination) method (see 1, 2, 3).
+  2) small example using CMB data from Plank experiment (4,5)
+  3) visualization using 
+
+using data from Planck expirement (see 3) in python, using healpy library for visualization.
 
 First of all a few words about ILC (one can find much more information in article linked below).
 
@@ -57,12 +62,20 @@ One can find file ILC_CMB.ipynb that contains
 
 Links and articles: 
 
-  1)  https://arxiv.org/pdf/0811.4277.pdf
+  1)  https://arxiv.org/pdf/0806.0520.pdf A Statistical Analysis of the "Internal Linear Combination" Method in Problems of Signal Separation as in CMB Observations R. Vio and P. Andreani 2008
   
-  2)  https://arxiv.org/pdf/astro-ph/0403098.pdf
+  2)  https://arxiv.org/pdf/0811.4277.pdf "Internal Linear Combination" method for the separation of CMB
+from Galactic foregrounds in the harmonic domain R. Vio and P. Andreani 2008
+
+  3)  https://arxiv.org/pdf/astro-ph/0403098.pdf ON FOREGROUND REMOVAL FROM THE WILKINSON MICROWAVE ANISOTROPY PROBE DATA BY
+AN INTERNAL LINEAR COMBINATION METHOD: LIMITATIONS AND IMPLICATIONS H. K. Eriksen et al 2004
   
-  3)  https://irsa.ipac.caltech.edu/data/Planck/release_2/all-sky-maps/
+  4)  https://lambda.gsfc.nasa.gov/product/map/dr5/ilc_map_info.cfm 
+      https://lambda.gsfc.nasa.gov/toolbox/tb_comp_separation.cfm Information about usage of ILC in WMAP experiment
+  
+  5)  https://irsa.ipac.caltech.edu/data/Planck/release_2/all-sky-maps/ Public download link for CMB maps
 
-  4)  https://lambda.gsfc.nasa.gov/product/map/dr5/ilc_map_info.cfm
-
-  5)  https://arxiv.org/pdf/0802.0400.pdf
+  6)  https://healpix.sourceforge.io/
+      https://github.com/healpy/healpy/Hierarchical Equal Area isoLatitude Pixelation of a sphere project website
+      
+  7)  https://arxiv.org/pdf/0802.0400.pdf A Modified ICA Approach for Signal Separation in CMB Maps R. Vio and P. Andreani 2008
