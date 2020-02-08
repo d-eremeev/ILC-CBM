@@ -4,9 +4,9 @@
 
 This repository contains 
 
-  1) implementation of ILC (Internal Linear Combination) method (see 1, 2, 3).
-  2) small example using CMB data from Planck  experiment (see 4, 5)
-  3) visualization using HEALPix (Hierarchical Equal Area isoLatitude Pixelation of a sphere) python package (see 6)
+  1) implementation of ILC (Internal Linear Combination) method (see (1), (2), (3), also one can find a chapter about ILC in the book (8)).
+  2) small example using CMB data from Planck  experiment (see (4), (5))
+  3) visualization using HEALPix (Hierarchical Equal Area isoLatitude Pixelation of a sphere) python package (see (6))
 
 ## More information:
 
@@ -86,3 +86,5 @@ AN INTERNAL LINEAR COMBINATION METHOD: LIMITATIONS AND IMPLICATIONS H. K. Erikse
       https://github.com/healpy/healpy/Hierarchical Equal Area isoLatitude Pixelation of a sphere project website
       
   7)  https://arxiv.org/pdf/0802.0400.pdf A Modified ICA Approach for Signal Separation in CMB Maps R. Vio and P. Andreani 2008
+  
+  8)  V.J. Martinez et al, Data Analysis in Cosmology, Springer 2009
