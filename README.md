@@ -9,6 +9,8 @@
 
 ### More information:
 
+**
+
 The separation of the main signal from noise is one of the most general problems in analysis of cosmic microwave background (CMB) in WMAP and Planck experiment.
 
 Alongside with classical methods such as Wavelet analysis, ICA (Independent Component Analysis) and many others ILC (Internal Linear Combination) method was presented by numerous of authors (see links).
