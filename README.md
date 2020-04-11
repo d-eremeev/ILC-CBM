@@ -15,23 +15,23 @@ ILC method, alongside with classical methods such as Wavelet analysis, ICA (Inde
 
 *Below are a few words about ILC.*
 
-[WMAP](https://en.wikipedia.org/wiki/Wilkinson_Microwave_Anisotropy_Probe) and [Planck](https://en.wikipedia.org/wiki/Planck_(spacecraft)) experiments created a full-sky map of CMB (electromagnetic radiation remnant from an early stage of the Universe) via multi-frequency observation. 
+[WMAP](https://en.wikipedia.org/wiki/Wilkinson_Microwave_Anisotropy_Probe) and [Planck](https://en.wikipedia.org/wiki/Planck_(spacecraft)) experiments created a full-sky map of [CMB](https://en.wikipedia.org/wiki/Cosmic_microwave_background) (electromagnetic radiation remnant from an early stage of the Universe) via multi-frequency observation. 
 
 The data consists of several maps in HEALPix format. There are separate files for different frequencies. Each file contains pixels with temperature differences.
 
-Supose for channel i at pth pixel we have.
+Supose that for some map in channel i at pixel p we have
 
 ![](https://latex.codecogs.com/gif.latex?S%5E%7B%28i%29%7D%28p%29%20%3D%20%5COmega_%7BCMB%7D%20%5E%7B%28i%29%7D%28p%29%20&plus;%20S%5E%7B%28i%29%7D_%7Bf%7D%28p%29%20&plus;%20%5Cmathcal%7BN%7D%5E%7Bi%7D%28p%29)
 
 where  
 
-![](https://latex.codecogs.com/gif.latex?%5COmega_%7BCMB%7D%20%5E%7B%28i%29%7D%28p%29) -- CMB contribution
+![](https://latex.codecogs.com/gif.latex?%5COmega_%7BCMB%7D%20%5E%7B%28i%29%7D%28p%29) - CMB contribution,
 
-![](https://latex.codecogs.com/gif.latex?S%5E%7B%28i%29%7D_%7Bf%7D%28p%29) -- diffuse Galactic foreground contribution  
+![](https://latex.codecogs.com/gif.latex?S%5E%7B%28i%29%7D_%7Bf%7D%28p%29) - diffuse Galactic foreground contribution,  
 
-![](https://latex.codecogs.com/gif.latex?%5Cmathcal%7BN%7D%5E%7Bi%7D%28p%29) --  the experimental noise
+![](https://latex.codecogs.com/gif.latex?%5Cmathcal%7BN%7D%5E%7Bi%7D%28p%29) -  the experimental noise.
 
-Example picture one of the channels: 
+Example picture for one of the channels: 
 
 ![image](https://user-images.githubusercontent.com/48928457/74084186-bbc77580-4a7d-11ea-83be-5e417a2fc3d9.png)
 
