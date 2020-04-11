@@ -1,7 +1,7 @@
 # Internal Linear Combination For Cosmic Microwave Background.
 
 
-This repository contains 
+##This repository contains:
 
   1) implementation of ILC (Internal Linear Combination) method (see (1), (2), (3), also one can find a chapter about ILC in the book (8)).
   2) small example using CMB data from Planck  experiment (see (4), (5))
