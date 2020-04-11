@@ -61,6 +61,7 @@ The solution of this problem is
 ![](https://latex.codecogs.com/gif.latex?%5Comega_i%20%3D%20%5Cfrac%7B%5Csum_%7Bj%3D1%7D%5E%7Bk%7DC%5E%7B-1%7D_%7Bij%7D%7D%7B%5Csum_%7Bl%3D1%7D%5E%7Bk%7D%5Csum_%7Bj%3D1%7D%5E%7Bk%7DC%5E%7B-1%7D_%7Blj%7D%7D)
 
 where C is covariance matrix:
+
 ![](https://latex.codecogs.com/gif.latex?C_%7Bij%7D%20%3D%20%5Clangle%20%5CDelta%20S_i%20%5CDelta%20S_j%5Crangle)
 
 ## Comparison of the official map with the map received by our code:
