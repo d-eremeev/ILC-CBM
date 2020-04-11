@@ -17,8 +17,7 @@ Below are a few words about ILC.
 
 WMAP and Planck experiments created a full-sky map of CMB (electromagnetic radiation remnant from an early stage of the Universe) via multi-frequency observation. 
 
-The data consists of several maps in HEALPix format. Each file contains pixels with temperature difference in each pixel. 
-
+The data consists of several maps in HEALPix format. There are separate files for different frequencies. Each file contains pixels with temperature differences.
 
 Supose for channel i at pth pixel we have.
 
