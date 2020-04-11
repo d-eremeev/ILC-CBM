@@ -15,6 +15,7 @@ ILC method, alongside with classical methods such as Wavelet analysis, ICA (Inde
 
 Below are a few words about ILC.
 
+WMAP and Planck experiments created a full-sky map of CMB (electromagnetic radiation remnant from an early stage of the Universe) via multi-frequency observation. The data consists of 
 Supose for channel i at pth pixel we have 
 
 ![](https://latex.codecogs.com/gif.latex?S%5E%7B%28i%29%7D%28p%29%20%3D%20%5COmega_%7BCMB%7D%20%5E%7B%28i%29%7D%28p%29%20&plus;%20S%5E%7B%28i%29%7D_%7Bf%7D%28p%29%20&plus;%20%5Cmathcal%7BN%7D%5E%7Bi%7D%28p%29)
