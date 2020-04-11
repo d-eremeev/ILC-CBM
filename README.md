@@ -7,9 +7,7 @@
   2) small example using CMB data from Planck  experiment (see (4), (5))
   3) visualization using HEALPix (Hierarchical Equal Area isoLatitude Pixelation of a sphere) python package (see (6))
 
-### More information:
-
-**
+## More information:
 
 The separation of the main signal from noise is one of the most general problems in analysis of cosmic microwave background (CMB) in WMAP and Planck experiment.
 
