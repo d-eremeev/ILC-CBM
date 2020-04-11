@@ -86,7 +86,7 @@ from Galactic foregrounds in the harmonic domain (R. Vio and P. Andreani, 2008)
   5)  https://irsa.ipac.caltech.edu/data/Planck/release_2/all-sky-maps/ Public download link for CMB maps
 
   6)  https://healpix.sourceforge.io/
-      https://github.com/healpy/healpy/Hierarchical Equal Area isoLatitude Pixelation of a sphere project website
+      https://github.com/healpy/healpy Hierarchical Equal Area isoLatitude Pixelation of a sphere project website
       
   7)  https://arxiv.org/pdf/0802.0400.pdf A Modified ICA Approach for Signal Separation in CMB Maps (R. Vio and P. Andreani, 2008)
   
