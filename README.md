@@ -13,13 +13,13 @@ Separation of the main signal from noise is a challenging problem in analysis of
 
 ILC method, alongside with classical methods such as Wavelet analysis, ICA (Independent Component Analysis) and many others, is one of the most widely used approaches in data analysis in Cosmology.
 
-*Below are a few words about ILC.*
+#### Below are a few words about ILC.
 
 WMAP and Planck experiments created a full-sky map of CMB (electromagnetic radiation remnant from an early stage of the Universe) via multi-frequency observation. 
 
-The data consists of several maps in HEALPix format. There are separate files for different frequencies. Each file contains pixels with temperature differences.
+The data consists of several maps in HEALPix format. There are separate files for different frequencies (channels). Each file contains pixels with measured temperature differences.
 
-Supose for channel i at pth pixel we have.
+Suppose for channel i at pixel p we have
 
 ![](https://latex.codecogs.com/gif.latex?S%5E%7B%28i%29%7D%28p%29%20%3D%20%5COmega_%7BCMB%7D%20%5E%7B%28i%29%7D%28p%29%20&plus;%20S%5E%7B%28i%29%7D_%7Bf%7D%28p%29%20&plus;%20%5Cmathcal%7BN%7D%5E%7Bi%7D%28p%29)
 
