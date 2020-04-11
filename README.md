@@ -71,7 +71,7 @@ where C is covariance matrix:
 ![Annotation 2020-01-27 150948](https://user-images.githubusercontent.com/46852371/73173740-1fb17c00-4117-11ea-83a2-52c6fae0467c.jpg)
 
 
-## Links and articles: 
+## Links and papers: 
 
   1)  https://arxiv.org/pdf/0806.0520.pdf A Statistical Analysis of the "Internal Linear Combination" Method in Problems of Signal Separation as in CMB Observations (R. Vio and P. Andreani, 2008)
   
