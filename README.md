@@ -1,6 +1,5 @@
 # Internal Linear Combination For Cosmic Microwave Background.
 
-## TL;DR
 
 This repository contains 
 
