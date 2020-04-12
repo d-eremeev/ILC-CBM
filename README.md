@@ -9,7 +9,7 @@
 
 ## More information:
 
-Separation of the main signal from noise is a challenging problem in analysis of cosmic microwave background ([CMB](https://en.wikipedia.org/wiki/Cosmic_microwave_background)) in [WMAP](https://en.wikipedia.org/wiki/Wilkinson_Microwave_Anisotropy_Probe) and [Planck](https://en.wikipedia.org/wiki/Planck_(spacecraft)) experiments.
+Separation of the main signal from noise is a challenging problem in analysis of cosmic microwave background (CMB) in WMAP(https://en.wikipedia.org/wiki/Wilkinson_Microwave_Anisotropy_Probe) and [Planck](https://en.wikipedia.org/wiki/Planck_(spacecraft)) experiments.
 
 ILC method, alongside with classical methods such as Wavelet analysis, ICA (Independent Component Analysis) and many others, is one of the most widely used approaches in data analysis in Cosmology. The goal of this repository is to show that even simple version of ILC produces satisfactory results for the problem.
 
