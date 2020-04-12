@@ -35,7 +35,7 @@ Example picture for one of the channels with applied mask:
 
 ![image](https://user-images.githubusercontent.com/48928457/74084186-bbc77580-4a7d-11ea-83be-5e417a2fc3d9.png)
 
-The main assumption for ILC is that CMB contribution does not depend on channel. Then the observed map is
+The main assumption for ILC is that CMB contribution does not depend on the channel. Then the observed map is
 
 ![](https://latex.codecogs.com/gif.latex?S%5E%7B%28i%29%7D%28p%29%20%3D%20%5COmega_%7BCMB%7D%28p%29%20&plus;%20S%5E%7B%28i%29%7D_%7Bf%7D%28p%29%20&plus;%20%5Cmathcal%7BN%7D%5E%7Bi%7D%28p%29)
 
