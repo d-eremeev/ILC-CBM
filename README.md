@@ -15,7 +15,7 @@ ILC method, alongside with classical methods such as Wavelet analysis, ICA (Inde
 
 #### Below are a few words about ILC.
 
-[WMAP](https://en.wikipedia.org/wiki/Wilkinson_Microwave_Anisotropy_Probe) and [Planck](https://en.wikipedia.org/wiki/Planck_(spacecraft)) experiments created a full-sky map of [CMB](https://en.wikipedia.org/wiki/Cosmic_microwave_background) (electromagnetic radiation remnant from an early stage of the Universe) via multi-frequency observation. 
+WMAP and Planck experiments created a full-sky map of CMB (electromagnetic radiation remnant from an early stage of the Universe) via multi-frequency observation. 
 
 The data consists of several maps in HEALPix format. There are separate files for different frequencies. Each file contains pixels with temperatures.
 
