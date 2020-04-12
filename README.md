@@ -4,7 +4,7 @@
 ## This repository contains:
 
   1) Implementation of simple ILC (Internal Linear Combination) method (see (1), (2), (3), also one can find a chapter about ILC in the book (8)).
-  2) Small example using CMB data from [Planck](https://en.wikipedia.org/wiki/Planck_(spacecraft)) experiment (see (4), (5)).
+  2) Small example using [CMB](https://en.wikipedia.org/wiki/Cosmic_microwave_background) data from [Planck](https://en.wikipedia.org/wiki/Planck_(spacecraft)) experiment (see (4), (5)).
   3) Visualization using [HEALPix](https://en.wikipedia.org/wiki/HEALPix) (Hierarchical Equal Area isoLatitude Pixelation of a sphere) python package (see (6)).
 
 ## More information:
